@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zomato/static/css/main.d1e64eb0.chunk.css",
+    "main.js": "/zomato/static/js/main.54f26168.chunk.js",
+    "main.js.map": "/zomato/static/js/main.54f26168.chunk.js.map",
+    "runtime-main.js": "/zomato/static/js/runtime-main.0715b42b.js",
+    "runtime-main.js.map": "/zomato/static/js/runtime-main.0715b42b.js.map",
+    "static/css/2.da591b84.chunk.css": "/zomato/static/css/2.da591b84.chunk.css",
+    "static/js/2.63f9b9f9.chunk.js": "/zomato/static/js/2.63f9b9f9.chunk.js",
+    "static/js/2.63f9b9f9.chunk.js.map": "/zomato/static/js/2.63f9b9f9.chunk.js.map",
+    "static/js/3.ea345d58.chunk.js": "/zomato/static/js/3.ea345d58.chunk.js",
+    "static/js/3.ea345d58.chunk.js.map": "/zomato/static/js/3.ea345d58.chunk.js.map",
+    "index.html": "/zomato/index.html",
+    "static/css/2.da591b84.chunk.css.map": "/zomato/static/css/2.da591b84.chunk.css.map",
+    "static/css/main.d1e64eb0.chunk.css.map": "/zomato/static/css/main.d1e64eb0.chunk.css.map",
+    "static/js/2.63f9b9f9.chunk.js.LICENSE.txt": "/zomato/static/js/2.63f9b9f9.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/zomato/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0715b42b.js",
+    "static/css/2.da591b84.chunk.css",
+    "static/js/2.63f9b9f9.chunk.js",
+    "static/css/main.d1e64eb0.chunk.css",
+    "static/js/main.54f26168.chunk.js"
+  ]
+}
